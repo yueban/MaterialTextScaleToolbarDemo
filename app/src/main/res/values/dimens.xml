@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+    <dimen name="element_touch_width_small">32dp</dimen>
+    <dimen name="header_height">320dp</dimen>
+    <dimen name="float_title_left_margin">44dp</dimen>
+    <dimen name="float_title_size">@dimen/abc_text_size_title_material_toolbar</dimen>
+    <dimen name="float_title_size_large">36sp</dimen>
+</resources>
