@@ -132,6 +132,9 @@ public class MainActivity extends ActionBarActivity implements AbsListView.OnScr
         }
     }
 
+    /**
+     * 得到ListView在Y轴上的偏移
+     */
     public float getScrollY(AbsListView view) {
         View c = view.getChildAt(0);
 
